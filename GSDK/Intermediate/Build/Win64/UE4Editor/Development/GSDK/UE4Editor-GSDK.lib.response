@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GSDK.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"W:\proj\wwunreal\ue_4_25_3\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
+"W:\proj\townsquared\Plugins\GSDK\Intermediate\Build\Win64\UE4Editor\Development\GSDK\GSDK.cpp.obj"
+"W:\proj\wwunreal\ue_4_25_3\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"W:\proj\townsquared\Plugins\GSDK\Intermediate\Build\Win64\UE4Editor\Development\GSDK\UE4Editor-GSDK.lib"
+/INCLUDE:IMPLEMENT_MODULE_GSDK

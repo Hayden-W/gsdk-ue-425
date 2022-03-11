@@ -1,0 +1,2 @@
+W:\proj\town_squared\Plugins\GSDK\Source\ThirdParty\GSDKLibrary\x64\Release\gsdklib.lib
+W:\proj\townsquared\Plugins\GSDK\Source\ThirdParty\GSDKLibrary\x64\Release\gsdklib.lib
